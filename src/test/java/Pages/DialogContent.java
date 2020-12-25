@@ -117,10 +117,6 @@ public class DialogContent extends _Parent {
     })
     private List<WebElement> subjectCategory1;
 
-
-    @FindBy(css = "mat-option[style='color: black; background-color: rgb(255, 128, 171);']")
-    private WebElement colorSelect;
-
     @FindBy(xpath = "(//ms-delete-button//button)[1]")
     private WebElement deleteButton2;
 
