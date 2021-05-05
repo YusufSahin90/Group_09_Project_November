@@ -5,6 +5,7 @@ Feature: Create a  Cost Centers  record, edit and Delete
     When Enter username and password and click Login button
 
 
+  @SmokeTest
   @RegressionTest
   Scenario: Create a Cost Centers t record, edit and Delete
 

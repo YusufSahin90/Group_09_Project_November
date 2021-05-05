@@ -5,6 +5,7 @@ Feature: Create a Salary Modifiers record, edit and Delete
     When Enter username and password and click Login button
 
 
+  @SmokeTest
   @RegressionTest
   Scenario: Create a Salary Modifiers record, edit and Delete
 

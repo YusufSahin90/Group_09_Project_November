@@ -5,6 +5,7 @@ Feature: Create a Position Salary
     When Enter username and password and click Login button
 
 
+  @SmokeTest
   @RegressionTest
   Scenario: Create a Position Salary Edit and Delete
 

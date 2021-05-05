@@ -1,7 +1,6 @@
 package StepDefinitions;
 
 import Utilities.Driver;
-import Utilities.ExcelUtility;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
@@ -48,7 +47,7 @@ public class _04_Hooks {
             }
         }
 
-        ExcelUtility.exceleYaz(scenario, strDate, Driver.threadBrowserName.get());
+
 
 
         try {

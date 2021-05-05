@@ -5,6 +5,7 @@ Feature: Create a Position
     When Enter username and password and click Login button
 
 
+  @SmokeTest
   @RegressionTest
   Scenario: Create a Position  Edit and Delete
 

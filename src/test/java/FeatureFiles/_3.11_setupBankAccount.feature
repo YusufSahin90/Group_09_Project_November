@@ -5,6 +5,7 @@ Feature: Create a  Bank Account  record, edit and Delete
     When Enter username and password and click Login button
 
 
+  @SmokeTest
   @RegressionTest
   Scenario: Create a Bank Account t record, edit and Delete
 

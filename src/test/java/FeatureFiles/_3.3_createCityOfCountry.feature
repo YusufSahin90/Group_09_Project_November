@@ -5,6 +5,7 @@ Feature: Create a Country
     When Enter username and password and click Login button
 
 
+  @SmokeTest
   @RegressionTest
   Scenario: Create a Country
 

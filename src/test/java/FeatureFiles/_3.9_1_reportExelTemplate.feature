@@ -5,6 +5,7 @@ Feature: Create a Report Exel Template
     When Enter username and password and click Login button
 
 
+  @SmokeTest
   @RegressionTest
   Scenario: Create a Report  Exet Template  Edit and Delete
 

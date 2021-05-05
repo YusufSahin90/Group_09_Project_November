@@ -5,6 +5,7 @@ Feature: Create a Country und delete
     When Enter username and password and click Login button
 
 
+  @SmokeTest
   @RegressionTest
   Scenario: Create a Country und delete
 
